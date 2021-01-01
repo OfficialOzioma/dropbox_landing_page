@@ -58,7 +58,5 @@ export default {
 </script>
 
 <style>
- .hide{
-
-    }
+ 
 </style>

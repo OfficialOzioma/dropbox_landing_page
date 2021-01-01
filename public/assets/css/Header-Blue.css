@@ -238,7 +238,12 @@
 }
 
 .features_div {
-  width: 30%;
+  width: 50%;
+  cursor: pointer;
+}
+
+.feature_img > img {
+  width: 100%;
 }
 
 .footer {
