@@ -26,7 +26,7 @@
                 </div>
             </div>
             
-            <hr>
+            <hr class="bg-white">
             <div>
                 <div class="row">
                     <div class="col col-7">
