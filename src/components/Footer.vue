@@ -6,7 +6,7 @@
                 <div>
                     <div class="footer_menu_1">
                         <h5><span class="text-white p-4"><strong>Dropbox</strong></span></h5>
-                        <ul class="text-capitalize text-white">
+                        <ul class="text-capitalize text-white list-unstyled pl-4">
                             <li>Desktop App</li>
                             <li>Mobile App</li>
                             <li>Plans</li>
@@ -20,7 +20,7 @@
                 <div>
                     <div class="footer_menu_1">
                         <h5><span class="text-white p-4"><strong>Products</strong><br></span></h5>
-                        <ul class="text-capitalize text-white">
+                        <ul class="text-capitalize text-white list-unstyled pl-4">
                             <li>Plus</li>
                             <li>Family</li>
                             <li>Professional</li>
@@ -34,7 +34,7 @@
                 <div class="w-100">
                     <div class="footer_menu_1">
                         <h5><span class="text-white p-4">Company<br></span></h5>
-                        <ul class="text-white w-100">
+                        <ul class="text-white w-100 list-unstyled pl-4">
                             <li>About us</li>
                             <li>Jobs</li>
                             <li>Press</li>
@@ -48,7 +48,7 @@
                 <div>
                     <div class="footer_menu_1">
                         <h5><span class="text-white p-4">Support<br></span></h5>
-                        <ul class="text-white">
+                        <ul class="text-white list-unstyled pl-4">
                             <li>Help center</li>
                             <li>Contact us</li>
                             <li>Cookies</li>
@@ -62,7 +62,7 @@
                 <div>
                     <div class="footer_menu_1">
                         <h5><span class="text-white p-4">Community<br></span></h5>
-                        <ul class="text-white">
+                        <ul class="text-white list-unstyled pl-4">
                             <li>Developers</li>
                             <li>Referrals</li>
                             <li>Forum</li>
